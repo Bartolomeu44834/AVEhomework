@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="point">
+      <HintPath>C:\Users\barto\Desktop\Faculdade\AVE\managed-static-link\PointLib\bin\Debug\net5.0\publish\PointLib.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

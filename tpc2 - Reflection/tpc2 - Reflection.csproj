@@ -3,11 +3,12 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>tpc2___Reflection</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
     <Reference Include="point">
-      <HintPath>C:\Users\barto\Desktop\Faculdade\AVE\tpc1 - managed-static-link\PointLib\obj\Debug\net5.0\PointLib.dll</HintPath>
+      <HintPath>RestSharp.dll</HintPath>
     </Reference>
   </ItemGroup>
 

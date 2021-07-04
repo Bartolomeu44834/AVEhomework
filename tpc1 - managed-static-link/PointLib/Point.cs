@@ -9,7 +9,6 @@ namespace PointLib{
             this.x = x;
             this.y = y;
         }
-
         public double getModule(){
             return Math.Sqrt(x*x + y*y);
         }
